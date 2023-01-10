@@ -19,7 +19,7 @@ Decentralized instant payment system on the Vite network.
 - [VinuPay Twitter 💬](https://twitter.com/vinupay)
 
 ## VinuSwap 🔗
-Major zero-gas, lightning-speed, and energy-efficient DEX
+Major zero-gas, lightning-speed, and energy-efficient DEX.
 - [VinuSwap Website (Testnet) 🌐](https://testnet.vinuswap.org/)
 - [VinuSwap Documentation 📜](https://app.gitbook.com/s/7CmxJ9ixtVGlMroqKFHM/)
 - [VinuSwap Twitter 💬](https://twitter.com/vinu_swap)
@@ -29,7 +29,7 @@ Fun collection & geo-hunting game.
 - [WeVinu Twitter 💬](https://twitter.com/wevinu)
 
 ## VR World 🔗
-Metaverse inside VRChat
+Exciting metaverse inside VRChat.
 - [Vinuverse 🌎](https://vrchat.com/home/launch?worldId=wrld_42590565-868e-4c71-9955-842c5c4680e5)
 
 ## VinuWear 🔗
@@ -39,7 +39,7 @@ World's first crypto designer clothing brand.
 - [VinuWear Twitter 💬](https://twitter.com/vinuwear)
 
 ## NFTs 🔗
-Digital art & collectibles
+Digital art & collectibles.
 - [Opensea 🌊](https://opensea.io/VitaInuCoin?tab=created)
 - [Anniversary Collection (Limited Edition) 🎨]()
 - [Holiday Collection (Limited Edition) 🎨](https://opensea.io/collection/vita-inu-holiday-collection)
