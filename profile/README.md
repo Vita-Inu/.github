@@ -42,7 +42,7 @@ World's first crypto designer clothing brand.
 ## NFTs 🔗
 Digital art & collectibles.
 - [Opensea 🌊](https://opensea.io/VitaInuCoin?tab=created)
-- [Anniversary Collection (Limited Edition) 🎨]()
+- [Anniversary Collection (Limited Edition) 🎨](https://opensea.io/collection/vinuanniversary)
 - [Holiday Collection (Limited Edition) 🎨](https://opensea.io/collection/vita-inu-holiday-collection)
 
 ## Socials 🔗
