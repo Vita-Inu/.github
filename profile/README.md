@@ -3,7 +3,7 @@ The World's First Light-Speed, Energy-Efficient Dog Coin with Zero Fees.
 - [Website (Token) 🌐](https://vitainu.org)
 - [Website (Ecosystem) 🌐](https://vinu.org)
 - [Whitepaper 📜](https://vitainu.org/whitepaper)
-- [Token Audit (Certik)](https://www.certik.com/projects/vita-inu)
+- [Token Audit (Certik) 🔎](https://www.certik.com/projects/vita-inu)
 - [Merch 🛒](https://www.redbubble.com/shop/ap/100921734)
 
 ## Vinufolio 🔗
