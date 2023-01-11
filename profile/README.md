@@ -46,6 +46,7 @@ Digital art & collectibles.
 - [Holiday Collection (Limited Edition) 🎨](https://opensea.io/collection/vita-inu-holiday-collection)
 
 ## Socials 🔗
+Follow us.
 - [Twitter 💬](https://twitter.com/vitainucoin)
 - [Discord 💬](https://discord.gg/vitainu)
 - [Telegram (Chat) 💬](https://t.me/vitainu)
