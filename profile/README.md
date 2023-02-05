@@ -45,6 +45,10 @@ Digital art & collectibles.
 - [Anniversary Collection (Limited Edition) 🎨](https://opensea.io/collection/vinuanniversary)
 - [Holiday Collection (Limited Edition) 🎨](https://opensea.io/collection/vita-inu-holiday-collection)
 
+## VinuBurn 🔗
+Dashboard to track Vinu burns and data.
+- [Website 🔥](https://vinuburn.com/)
+
 ## Socials 🔗
 Follow us!
 - [Twitter 💬](https://twitter.com/vitainucoin)
