@@ -25,6 +25,10 @@ Major zero-gas, lightning-speed, and energy-efficient DEX.
 - [VinuSwap Documentation 📜](https://app.gitbook.com/s/7CmxJ9ixtVGlMroqKFHM/)
 - [VinuSwap Twitter 💬](https://twitter.com/vinu_swap)
 
+## VinuFinance 🔗
+Zero-gas lending platform.
+- TBA
+
 ## WeVinu 🔗
 Fun collection & geo-hunting game.
 - [WeVinu Twitter 💬](https://twitter.com/wevinu)
