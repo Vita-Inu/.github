@@ -52,7 +52,7 @@ Digital art & collectibles.
 - [Opensea 🌊](https://opensea.io/VitaInuCoin?tab=created)
 - [Anniversary Collection (Limited Edition) 🎨](https://opensea.io/collection/vinuanniversary)
 - [Holiday Collection (Limited Edition) 🎨](https://opensea.io/collection/vita-inu-holiday-collection)
-- [VinuPixels🎨](https://www.scatter.art/collection/0xbFE5e191f0F40117452c1bc07D77D89C10a8a326)
+- [VinuPixels Collection 🎨](https://www.scatter.art/collection/0xbFE5e191f0F40117452c1bc07D77D89C10a8a326)
 
 ## VinuBurn 🔗
 Dashboard to track Vinu burns and data.
