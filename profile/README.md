@@ -30,7 +30,7 @@ Zero-gas lending platform.
 - TBA
 
 ## VinuChain 🔗
-A New Zero-gas-enabled, Lightning Fast EVM Network.
+A New Zero-Gas-Enabled, Lightning Fast EVM Network.
 - TBA
 
 ## WeVinu 🔗
