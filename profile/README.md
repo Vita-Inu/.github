@@ -29,6 +29,10 @@ Major zero-gas, lightning-speed, and energy-efficient DEX.
 Zero-gas lending platform.
 - TBA
 
+## VinuChain 🔗
+A New Zero-gas-enabled, Lightning Fast EVM Network.
+- TBA
+
 ## WeVinu 🔗
 Fun collection & geo-hunting game.
 - [WeVinu Twitter 💬](https://twitter.com/wevinu)
