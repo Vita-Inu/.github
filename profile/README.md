@@ -26,7 +26,7 @@ Major zero-gas, lightning-speed, and energy-efficient DEX.
 - [VinuSwap Twitter 💬](https://twitter.com/vinu_swap)
 
 ## VinuFinance 🔗
-Zero-gas lending platform.
+Zero-gas DeFi lending platform.
 - TBA
 
 ## VinuChain 🔗
