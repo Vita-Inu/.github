@@ -39,7 +39,7 @@ Fun collection & geo-hunting game.
 
 ## VR World 🔗
 Exciting metaverse inside VRChat.
-- [Vinuverse 🌎](https://vrchat.com/home/launch?worldId=wrld_42590565-868e-4c71-9955-842c5c4680e5)
+- [Vinuverse 🌎](https://vrchat.com/home/launch?worldId=wrld_e567cf3a-4c61-4027-b919-84b2927a13b1)
 
 ## VinuWear 🔗
 World's first crypto designer clothing brand.
