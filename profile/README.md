@@ -14,7 +14,7 @@ Powerful non-custodial, multi-chain wallet.
 
 ## VinuPay 🔗
 Decentralized instant payment system on the Vite network.
-- [VinuPay Website 🌐](https://github.com/VinuPay/VinuPay-Web)
+- [VinuPay Website 🌐](https://vinu.cash/)
 - [VinuPay Repositories 📃](https://github.com/VinuPay/)
 - [VinuPay Documentation 📜](https://docs.vinu.cash)
 - [VinuPay Twitter 💬](https://twitter.com/vinupay)
