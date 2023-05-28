@@ -56,7 +56,8 @@ Digital art & collectibles.
 
 ## VinuBurn 🔗
 Dashboard to track Vinu burns and data.
-- [Website 🔥](https://vinuburn.com/)
+- [VinuBurn Website 🔥](https://vinuburn.com/)
+- [VinuBurn Repositories 📃](https://github.com/Vita-Inu/VinuBurn)
 
 ## Socials 🔗
 Follow us!
