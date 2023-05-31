@@ -33,6 +33,10 @@ Zero-gas DeFi lending platform.
 A New Determinably Feeless, Lightning Fast EVM Network.
 - TBA
 
+## VinuDrop 🔗
+Lottery & jackpot dApp on the BNB Smart Chain.
+- [VinuDrop Website 🌐](https://drop.vitainu.org/)
+
 ## WeVinu 🔗
 Fun collection & geo-hunting game.
 - [WeVinu Twitter 💬](https://twitter.com/wevinu)
