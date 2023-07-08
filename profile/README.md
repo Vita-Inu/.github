@@ -66,7 +66,7 @@ Dashboard to track Vinu burns and data.
 ## Socials 🔗
 Follow us!
 - [Twitter 💬](https://twitter.com/vitainucoin)
-- [Discord 💬](https://discord.gg/vitainu)
+- [Discord 💬](https://discord.gg/vinu)
 - [Telegram (Chat) 💬](https://t.me/vitainu)
 - [Telegram (News) 💬](https://t.me/vinu_news)
 - [Medium (Blog) 💬](https://medium.com/@vitainu)
