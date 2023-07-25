@@ -6,11 +6,11 @@ The World's First Light-Speed, Energy-Efficient Dog Coin with Zero Fees.
 - [Token Audit (Certik) 🔎](https://www.certik.com/projects/vita-inu)
 - [Merch 🛒](https://www.redbubble.com/shop/ap/100921734)
 
-## Vinufolio 🔗
-Powerful non-custodial, multi-chain wallet.
-- [Download App: Android 🤖](https://play.google.com/store/apps/details?id=clutchnetwork.io)
-- Download App: Apple iOS 🍎(Coming Soon)
-- [Twitter 💬](https://twitter.com/vinufolio)
+## VinuChain 🔗
+A New Determinably Feeless, Lightning Fast EVM Network.
+- [VinuPay Website 🌐](https://vinuchain.org)
+- [VinuPay Repositories 📃](https://github.com/VinuChain/)
+- [VinuPay Documentation 📜](https://vinu.gitbook.io/vinuchain/)
 
 ## VinuPay 🔗
 Decentralized instant payment system on the Vite network.
@@ -29,13 +29,15 @@ Major zero-gas, lightning-speed, and energy-efficient DEX.
 Zero-gas DeFi lending platform.
 - TBA
 
-## VinuChain 🔗
-A New Determinably Feeless, Lightning Fast EVM Network.
-- TBA
-
 ## VinuDrop 🔗
 Lottery & jackpot dApp on the BNB Smart Chain.
 - [VinuDrop Website 🌐](https://drop.vitainu.org/)
+
+## Vinufolio 🔗
+Powerful non-custodial, multi-chain wallet.
+- [Download App: Android 🤖](https://play.google.com/store/apps/details?id=clutchnetwork.io)
+- Download App: Apple iOS 🍎(Coming Soon)
+- [Twitter 💬](https://twitter.com/vinufolio)
 
 ## WeVinu 🔗
 Fun collection & geo-hunting game.
