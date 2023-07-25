@@ -8,9 +8,11 @@ The World's First Light-Speed, Energy-Efficient Dog Coin with Zero Fees.
 
 ## VinuChain 🔗
 A New Determinably Feeless, Lightning Fast EVM Network.
-- [VinuPay Website 🌐](https://vinuchain.org)
-- [VinuPay Repositories 📃](https://github.com/VinuChain/)
-- [VinuPay Documentation 📜](https://vinu.gitbook.io/vinuchain/)
+- [VinuChain Website 🌐](https://vinuchain.org)
+- [VinuChain Repositories 📃](https://github.com/VinuChain/)
+- [VinuChain Documentation 📜](https://vinu.gitbook.io/vinuchain/)
+- [VinuChain Twitter 💬](https://twitter.com/VinuChain)
+
 
 ## VinuPay 🔗
 Decentralized instant payment system on the Vite network.
