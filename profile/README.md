@@ -24,7 +24,7 @@ Decentralized instant payment system on the Vite network.
 ## VinuSwap 🔗
 Major zero-gas, lightning-speed, and energy-efficient DEX.
 - [VinuSwap Website (Testnet) 🌐](https://testnet.vinuswap.org/)
-- [VinuSwap Documentation 📜](https://app.gitbook.com/s/7CmxJ9ixtVGlMroqKFHM/)
+- [VinuSwap Documentation 📜](https://vinu.gitbook.io/vinuswap/)
 - [VinuSwap Twitter 💬](https://twitter.com/vinu_swap)
 
 ## VinuFinance 🔗
