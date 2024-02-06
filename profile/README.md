@@ -13,7 +13,6 @@ A New Determinably Feeless, Lightning Fast EVM Network.
 - [VinuChain Documentation 📜](https://vinu.gitbook.io/vinuchain/)
 - [VinuChain Twitter 💬](https://twitter.com/VinuChain)
 
-
 ## VinuPay 🔗
 Decentralized instant payment system on the Vite network.
 - [VinuPay Website 🌐](https://vinu.cash/)
@@ -23,13 +22,15 @@ Decentralized instant payment system on the Vite network.
 
 ## VinuSwap 🔗
 Major zero-gas, lightning-speed, and energy-efficient DEX.
-- [VinuSwap Website (Testnet) 🌐](https://testnet.vinuswap.org/)
+- [VinuSwap Website (Vite) 🌐](https://vite.vinuswap.org/)
 - [VinuSwap Documentation 📜](https://vinu.gitbook.io/vinuswap/)
 - [VinuSwap Twitter 💬](https://twitter.com/vinu_swap)
 
 ## VinuFinance 🔗
 Zero-gas DeFi lending platform.
-- TBA
+- [VinuFinance Website (VinuChain) 🌐](https://vinufinance.app/)
+- [VinuFinance Documentation 📜](https://vinu.gitbook.io/vinufinance/)
+- [VinuFinance Twitter 💬](https://twitter.com/vinufinance)
 
 ## VinuDrop 🔗
 Lottery & jackpot dApp on the BNB Smart Chain.
@@ -69,7 +70,8 @@ Dashboard to track Vinu burns and data.
 
 ## Socials 🔗
 Follow us!
-- [Twitter 💬](https://twitter.com/vitainucoin)
+- [Twitter (Vinu) 💬](https://twitter.com/vitainucoin)
+- [Twitter (VinuChain) 💬](https://twitter.com/vinuchain)
 - [Discord 💬](https://discord.gg/vinu)
 - [Telegram (Chat) 💬](https://t.me/vitainu)
 - [Telegram (News) 💬](https://t.me/vinu_news)
